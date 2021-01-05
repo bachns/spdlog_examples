@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Backtrace", "Backtrace\Back
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Stopwatch", "Stopwatch\Stopwatch.vcxproj", "{3A06C187-2351-46EB-BA62-95AB9CA6530F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "multi_logger", "multi_logger\multi_logger.vcxproj", "{6E001E46-E2C2-4BD0-A72A-E3F82AA7EC2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{3A06C187-2351-46EB-BA62-95AB9CA6530F}.Release|x64.Build.0 = Release|x64
 		{3A06C187-2351-46EB-BA62-95AB9CA6530F}.Release|x86.ActiveCfg = Release|Win32
 		{3A06C187-2351-46EB-BA62-95AB9CA6530F}.Release|x86.Build.0 = Release|Win32
+		{6E001E46-E2C2-4BD0-A72A-E3F82AA7EC2F}.Debug|x64.ActiveCfg = Debug|x64
+		{6E001E46-E2C2-4BD0-A72A-E3F82AA7EC2F}.Debug|x64.Build.0 = Debug|x64
+		{6E001E46-E2C2-4BD0-A72A-E3F82AA7EC2F}.Debug|x86.ActiveCfg = Debug|Win32
+		{6E001E46-E2C2-4BD0-A72A-E3F82AA7EC2F}.Debug|x86.Build.0 = Debug|Win32
+		{6E001E46-E2C2-4BD0-A72A-E3F82AA7EC2F}.Release|x64.ActiveCfg = Release|x64
+		{6E001E46-E2C2-4BD0-A72A-E3F82AA7EC2F}.Release|x64.Build.0 = Release|x64
+		{6E001E46-E2C2-4BD0-A72A-E3F82AA7EC2F}.Release|x86.ActiveCfg = Release|Win32
+		{6E001E46-E2C2-4BD0-A72A-E3F82AA7EC2F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
