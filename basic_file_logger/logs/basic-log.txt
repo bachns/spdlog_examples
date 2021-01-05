@@ -1,0 +1,2 @@
+[2021-01-05 08:58:56.872] [basic_logger] [info] Toi yeu em den nay chung co the
+[2021-01-05 08:58:56.873] [basic_logger] [debug] Ngon lua tinh chua han da tan phai
